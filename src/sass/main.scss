@@ -1,0 +1,28 @@
+/*!
+ * Project: Project name
+ * Author: Author name
+ */
+
+@import 'node_modules/normalize.css/normalize';
+@import '_reset';
+@import '_print';
+@import '_mixins';
+@import '_variables';
+@import '_typography';
+
+/**
+ * Bootstrap 4 Grid & Breakpoints
+ */
+
+ @import "bootstrap/bootstrap";
+
+/**
+* Components
+*/
+
+@import 'components/_navbar';
+@import 'components/_buttons';
+
+/**
+ * Author's custom styles
+ */
