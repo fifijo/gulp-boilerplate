@@ -1,4 +1,4 @@
-# Gul front-end Boilerplate
+# Gulp front-end Boilerplate
 
 ## Features
 
