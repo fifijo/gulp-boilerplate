@@ -4,7 +4,7 @@
   "description": "",
   "main": "gulpfile.js",
   "devDependencies": {
-    "bootstrap": "^4.1.1",
+    "bootstrap": ">=4.1.2",
     "browser-sync": "^2.24.4",
     "css-clean": "^2.2.5",
     "del": "^3.0.0",
