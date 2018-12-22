@@ -2,6 +2,12 @@
   "name": "gulp-boilerplate",
   "version": "1.0.1",
   "description": "Gulp front-end Boilerplate",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:fifijo/gulp-boilerplate.git"
+  },
+  "author": "Krzysztof Perzanowski",
+  "license": "MIT",
   "main": "gulpfile.js",
   "devDependencies": {
     "bootstrap": "^4.2.1",
